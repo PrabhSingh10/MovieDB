@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="read_more"><u>Read More</u></string>
+    <string name="read_less"><u>Read Less</u></string>
+    <string name="similar_movies">SIMILAR MOVIES</string>
+    <string name="cast">CAST</string>
+    <string name="crew">CREW</string>
+</resources>
