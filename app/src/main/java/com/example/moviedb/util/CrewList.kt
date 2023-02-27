@@ -4,7 +4,7 @@ import com.example.moviedb.model.CastCrew
 
 object CrewList {
 
-    fun getCrew() : MutableList<CastCrew> {
+    fun getCrew() : List<CastCrew> {
 
         val crew = mutableListOf<CastCrew>()
 

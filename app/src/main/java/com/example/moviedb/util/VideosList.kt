@@ -4,7 +4,7 @@ import com.example.moviedb.model.Videos
 
 object VideosList {
 
-    fun getVideos() : MutableList<Videos> {
+    fun getVideos() : List<Videos> {
 
         val videos = mutableListOf<Videos>()
 

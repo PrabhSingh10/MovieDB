@@ -4,7 +4,7 @@ import com.example.moviedb.model.SimilarMovies
 
 object SimilarMoviesList {
 
-    fun getSimilarMovies() : MutableList<SimilarMovies> {
+    fun getSimilarMovies() : List<SimilarMovies> {
 
         val similarMovies = mutableListOf<SimilarMovies>()
 
